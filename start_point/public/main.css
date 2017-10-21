@@ -1,0 +1,82 @@
+#load-characters {
+  width: 230px;
+  height: 40px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  font-size: 20px;
+  outline-color: #FEE73B;
+  margin-bottom: 30px;
+}
+
+#load-planets {
+  width: 230px;
+  height: 40px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  font-size: 20px;
+  outline-color: #FEE73B;
+  margin-bottom: 30px;
+}
+
+html {
+  background-color: black;
+}
+
+header {
+  height: 400px;
+  background-color: black;
+  border-bottom-style: solid;
+  border-color: #FEE73B;
+}
+
+
+#star-wars {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#han-solo {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#planet-blow {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+body {
+    background-image:url("https://i.ytimg.com/vi/voWpbz1De_M/maxresdefault.jpg");
+    height: 1890px;
+}
+
+h3 {
+  color: #FEE73B;
+  text-align: center;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+li {
+  list-style-type: none;
+  color: #FEE73B;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+#select-result {
+  text-align: center;
+  padding-right: 39px;
+}
+
+#planet-result {
+  text-align: center;
+  padding-right: 39px;
+}
